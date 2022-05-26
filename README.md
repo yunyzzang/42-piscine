@@ -1,60 +1,62 @@
 # 42-piscine
->Shell00 (100%)
+Shell00 (100%)
 
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK
 
->Shell01 (100$)
+Shell01 (100$)
 
-ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+>ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
 
 ***
 
->C00 (100%)
+C00 (100%)
 
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
-
-
->C01 (100%)
-
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
 
 
+C01 (100%)
 
->C02 (55%)
-
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: KO | ex10: OK | ex11: KO | ex12: KO
-
-
->C03 (100%)
-
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK
 
 
->C04 (100%)
 
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: KO
+C02 (55%)
 
-
->C05 (80%)
-
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: KO | ex10: OK | ex11: KO | ex12: KO
 
 
->C06 (100%)
+C03 (100%)
 
-ex00: OK | ex01: OK | ex02: OK | ex03: OK
-
->C07 ()
-
->C08 (100%)
-
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
 
 
->C09 (100%)
+C04 (100%)
 
-ex00: OK | ex01: OK | ex02: OK
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: KO
 
->C11 (80%)
 
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: KO
+C05 (80%)
+
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: Nothing turned in
+
+
+C06 (100%)
+
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK
+
+C07 (60%)
+
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: OK
+
+C08 (100%)
+
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
+
+
+C09 (100%)
+
+e>x00: OK | ex01: OK | ex02: OK
+
+C11 (80%)
+
+>ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: KO
